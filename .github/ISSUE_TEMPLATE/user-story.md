@@ -1,12 +1,3 @@
----
-name: User Story Template
-about: user story template for kanban board
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
